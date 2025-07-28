@@ -1,0 +1,41 @@
+Base metals
+Bauxite
+Chromite
+Coal
+Chromium
+Cobalt
+Coltan
+Copper 
+Cuivre
+Diamonds
+Ferrotungsten
+Gold
+Graphite
+Heavy Mineral Sands
+Ilmenite
+Iron
+Iron Ore
+Lead
+Lithium
+Manganese
+Manganese Ore
+Molybdenum
+Monazite
+Nickel
+Niobium
+Not Specified
+Or
+Phosphate
+Platinum Group Metals
+Rare Earth Elements
+Rutile
+Silver
+Tantalum
+Tin
+Titanium
+Transition Minerals
+Tungsten
+Uranium (U308)
+Wollastonite
+Zinc 
+Zircon
