@@ -51,7 +51,6 @@ Open a terminal (e.g. in VS Code):
 ```bash
 python -m venv venv
 .\venv\Scripts\activate     # Windows
-pip install -r requirements.txt
 ```
 If you're running from a Jupyter notebook, just make sure you have the required libraries installed (transformers, fitz, bs4, requests, rapidfuzz, etc.).
 
